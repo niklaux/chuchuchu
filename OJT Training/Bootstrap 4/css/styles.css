@@ -1,0 +1,47 @@
+body {
+    color: white;
+}
+
+.body-color {
+    background-color: #15202B;
+}
+  
+.navbar {
+    background-color: #1C2733;
+    color: whitesmoke;
+}
+
+.card {
+    margin: 50px auto;
+    max-width: 500px;
+    min-width: 500px;
+    background-color: #25303B;
+    border: 0;
+}
+
+.card-body {
+    background-color: #25303B;
+    border-color: #1C2733;
+}
+
+table, .table-dark{
+    background-color: #15202B;
+    width: 100%;
+}
+
+th {
+    width: 25%;
+}
+
+.list-group, .list-group-item {
+    background-color: #1C2733;  
+}
+
+.modal {
+    overflow: hidden;
+}
+
+.modal-dialog {
+    margin-right: 0;
+    margin-left: 0;
+}
